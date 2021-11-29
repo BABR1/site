@@ -1,13 +1,13 @@
-@media only screen and (max-width:  992px) {
+@media only screen and (max-width:992px;) {
   .wrapper {
   	width: 750px;
   }
 }
 
-@media only screen and (max-width:  480px) {
+@media only screen and (max-width:480px;) {
   .wrapper { 
-  	width: 320px;
-  }
+  	width: 320px; 
+  } 
 }
 
 body{
