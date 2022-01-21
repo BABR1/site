@@ -55,7 +55,7 @@ h2 {
   top: 0;
   width: 60px;
   height: 90px;
-  background: red;
+  background: #3E13AF;
   border-radius: 60px 60px 0 0; 
   -moz-transform: rotate(-55deg);
   -ms-transform: rotate(-55deg); 
@@ -175,4 +175,10 @@ body {
 
 @keyframes spin {
   100% { transform: rotate(360deg); }
+}
+
+@media only screen and (max-width : 480px) {
+  .hd{max-width: none; width: 100%;}
+  .demo{max-width: none; width: 100%;}
+   .wave{max-width: none; width: 100%;}
 }
