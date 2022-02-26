@@ -57,7 +57,7 @@ h2 {
 
 #heart:before,
 #heart:after {
-  margin-top: 160px;
+  margin-top: 240px;
   position: absolute;
   content: "";
   left: 50px;
@@ -96,7 +96,7 @@ h2 {
   width: 0px;
   height: 10px;
   animation: a 1.5s infinite;
-  margin-top: 160px;
+  margin-top: 240px;
 }
 
 @keyframes a {
@@ -197,7 +197,7 @@ body {
 
 .Logo, .Top_menu {
   display: inline-block;
-  margin-right: 110px;
+  margin-right: 90px;
  vertical-align: middle;
 }
 
@@ -230,7 +230,7 @@ box-shadow: 1px 10px 40px;
   color: #e01f84; 
   margin-top: 0px;
   font-family: Comic Sans MS;
-
+  src: url(Comic Sans MS.ttf);
  }
 
 
