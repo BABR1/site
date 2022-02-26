@@ -3,7 +3,7 @@
 var snowmax=42
 
 // Цвет сердечек
-var snowcolor=new Array("#DD37B4")
+var snowcolor=new Array("purple")
 
 // Шрифт, который будет использоваться у сердечек
 var snowtype=new Array("arial")

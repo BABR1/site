@@ -8,3 +8,8 @@ margin-top: 40px;
 text-align: center;
 
  }
+
+ body {
+
+overflow: scroll;
+ }

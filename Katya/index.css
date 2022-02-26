@@ -57,6 +57,7 @@ h2 {
 
 #heart:before,
 #heart:after {
+  margin-top: 120px;
   position: absolute;
   content: "";
   left: 50px;
@@ -95,6 +96,7 @@ h2 {
   width: 0px;
   height: 10px;
   animation: a 1.5s infinite;
+  margin-top: 120px;
 }
 
 @keyframes a {
@@ -219,6 +221,7 @@ box-shadow: 1px 10px 40px;
  vertical-align: middle;
  text-decoration: none;
  font-family: Comic Sans MS;
+ src: url(Comic Sans MS.ttf);
   }
 
 

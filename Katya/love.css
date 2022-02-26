@@ -1,4 +1,6 @@
-
+body {
+	overflow: scroll;
+}
 h3 { 
 color: white;
 margin-top: 50px;
