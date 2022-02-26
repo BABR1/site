@@ -1,9 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
  background-color: #18181B;
 }
 
 
+
 h1 {
+  margin-top: 80px;
   color: #A101A6  ;
   font-style: italic;
   font-weight: bold;
@@ -16,6 +23,7 @@ h1 {
 }
 
 h2 {
+  margin-top: 40px;
   color: #A101A6  ;
   font-size: 53px; 
   font-style: italic;
@@ -34,7 +42,7 @@ h2 {
   left: 0;
   margin: auto;
   position: absolute;
-  top: 0;
+  top: -1000px;
   right: 0;
   width: 200px;
 }
@@ -164,7 +172,7 @@ body {
 }
 
 .wave::after {
-  width: 102%;
+  width: 1020%;
   height: 98%;
   margin-top: -125vw;
   transform-origin: 51% 49%;
@@ -176,9 +184,50 @@ body {
 @keyframes spin {
   100% { transform: rotate(360deg); }
 }
-
 @media only screen and (max-width : 480px) {
+  .wave{max-width: none; width: 100%;}
   .hd{max-width: none; width: 100%;}
   .demo{max-width: none; width: 100%;}
-   .wave{max-width: none; width: 100%;}
 }
+
+
+
+
+.Logo, .Top_menu {
+  display: inline-block;
+  margin-right: 110px;
+ vertical-align: middle;
+}
+
+.Top_menu li {
+  display: inline-block;
+}
+
+header { 
+display: flex; 
+justify-content: center;
+background: #121215;
+font-size: 100px;
+box-shadow: 1px 10px 40px;
+ }
+
+ .Top_menu a{ 
+ font-family: arial;
+ font-size:  38px; 
+ color: white;
+ margin-right: 50px;
+ vertical-align: middle;
+ text-decoration: none;
+ font-family: Comic Sans MS;
+  }
+
+
+.Logo h1 {
+ 
+  color: #e01f84; 
+  margin-top: 0px;
+  font-family: Comic Sans MS;
+
+ }
+
+
