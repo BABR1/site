@@ -57,7 +57,7 @@ h2 {
 
 #heart:before,
 #heart:after {
-  margin-top: 160px;
+  margin-top: 240px;
   position: absolute;
   content: "";
   left: 50px;
@@ -96,7 +96,7 @@ h2 {
   width: 0px;
   height: 10px;
   animation: a 1.5s infinite;
-  margin-top: 160px;
+  margin-top: 240px;
 }
 
 @keyframes a {
