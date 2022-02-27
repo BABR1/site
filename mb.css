@@ -1,0 +1,13 @@
+
+@media only screen and (max-width: 600px) {
+
+h1 {
+color: red; 
+font-family: Monotype Corsiva;
+font-size: 95px;
+text-shadow: 6px 0 1px #000, 
+0 1px 1px #000, 
+-1px 0 1px #000, 
+0 -1px 1px #000;
+  }
+}
