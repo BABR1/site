@@ -9,7 +9,7 @@ var snowcolor=new Array("purple")
 var snowtype=new Array("arial")
 
 // Символ сердечка
-var snowletter="💜"
+var snowletter="&#10084;" 
 
 // Скорость сердечек (рекомендуемые значения в диапазоне от 0,3 до 2)
 var sinkspeed=0.3
@@ -40,10 +40,10 @@ var x_mv=new Array();
 var crds=new Array();
 var lftrght=new Array();
 var browserinfos=navigator.userAgent
-var ie5=document.all&&document.getElementById&&!browserinfos.match(/Opera/)
+var ie5=document.all&&document.getElementById&&!browserinfos.match(/Google/)
 var ns6=document.getElementById&&!document.all
-var opera=browserinfos.match(/Opera/)
-var browserok=ie5||ns6||opera
+var opera=browserinfos.match(/Google/)
+var browserok=ie5||ns6||google
 
 function randommaker(range) {
         rand=Math.floor(range*Math.random())
