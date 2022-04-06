@@ -50,9 +50,9 @@ h2 {
 #heart {
   position: relative;
   width: 100px;
-  height: 900px;
+  height: 1200px;
   margin: 0 auto;
-  animation: b 1.5s ease-in-out infinite;
+  animation: b 1.1s ease-in-out infinite;
 }
 
 #heart:before,
@@ -95,7 +95,7 @@ h2 {
   z-index: 5;
   width: 0px;
   height: 10px;
-  animation: a 1.5s infinite;
+  animation: a 1.1s infinite;
   margin-top: 450px;
 }
 
