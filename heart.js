@@ -9,7 +9,7 @@ var snowcolor=new Array("purple")
 var snowtype=new Array("arial")
 
 // Символ сердечка
-var snowletter="&#10084;" 
+var snowletter="🖕" 
 
 // Скорость сердечек (рекомендуемые значения в диапазоне от 0,3 до 2)
 var sinkspeed=0.3
