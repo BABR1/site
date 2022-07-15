@@ -234,23 +234,6 @@ box-shadow: 1px 10px 40px;
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .Logo h1 {
  
   color: #e01f84; 
@@ -282,3 +265,32 @@ header {
   margin-right: 30px;
 }
 } 
+
+
+
+@media all and (max-width : 1920px) {
+
+header {
+    font-size: 60px;
+}
+
+
+ .demo {
+  top: -600px;
+}
+
+  
+  h1 {
+    font-size: 50px;
+  }
+  
+  h2 {
+    font-size: 40px;
+  }
+
+
+  .Top_menu a {
+  font-size: 25px;
+  }
+
+}

@@ -1,6 +1,6 @@
 
 // Количество сердечек (рекомендуется 30 - 400)
-var snowmax=42
+var snowmax= 40
 
 // Цвет сердечек
 var snowcolor=new Array("purple")
