@@ -216,7 +216,7 @@ box-shadow: 1px 10px 40px;
  .Top_menu a{ 
  transition: 0.2s;
  font-family: arial;
- font-size:  40px; 
+ font-size:  46px; 
  color: white;
  margin-right: 50px;
  vertical-align: middle;
@@ -235,7 +235,7 @@ box-shadow: 1px 10px 40px;
 
 
 .Logo h1 {
-  font-size: 70px;
+  font-size: 80px;
   color: #e01f84; 
   margin-top: 0px;
   font-family: Comic Sans MS;
