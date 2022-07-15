@@ -52,7 +52,7 @@ h2 {
   width: 100px;
   height: 900px;
   margin: 0 auto;
-  animation: b 1.5s ease-in-out infinite;
+  animation: b 0.9s ease-in-out infinite;
 }
 
 #heart:before,
@@ -95,7 +95,7 @@ h2 {
   z-index: 5;
   width: 0px;
   height: 10px;
-  animation: a 1.5s infinite;
+  animation: a 0.9s infinite;
   margin-top: 450px;
 }
 
