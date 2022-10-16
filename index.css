@@ -266,4 +266,14 @@ header {
 }
 } 
 
+.memm img {
+  width: 500px;
+  height: 500px;
+  display: flex;
+  box-shadow: -3px -3px 0px black;
+}
+
+
+
+
 
