@@ -1,0 +1,47 @@
+
+b {
+	color: white;
+	font-size: 40px;
+
+  } 
+
+
+ .pp { 
+
+color: #64699b;
+font-family: arial;
+  }
+
+
+ .im {
+background-color: #6b48b7;
+width: 900px;
+border-radius: 45px;
+margin-top: 70px;
+ }
+
+
+.ew { 
+color: #151b49;
+font-size: 30px;
+
+ }
+
+.ep { 
+color: white;
+font-size: 30px;
+
+ }
+
+ img { 
+width: 730px;
+height: 630px;
+top: 10px;
+margin-top: 40px;
+text-align: center;
+
+}
+
+body {
+overflow: scroll;
+}
